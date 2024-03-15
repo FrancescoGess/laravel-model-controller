@@ -1,0 +1,7 @@
+.row{
+    gap: 10px;
+}
+
+.card{
+    flex-basis: calc(100% / 3 - (20px / 3));
+}
